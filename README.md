@@ -1,9 +1,6 @@
-## Hi there 👋
 
+# Hello 👋 ,  I'm Nipun Sangeeth  !
 
-# Hello, I'm Nipun Sangeeth  !
-
-# Welcome to my GitHub profile.
 
 
 
