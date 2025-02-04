@@ -23,4 +23,4 @@ Here are some ideas to get you started: -->
 ![Nipun Sangeeth 's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunsgeeth&show_icons=true&theme=radical)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsgeeth&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsgeeth&layout=compact&theme=radical)](https://github.com/nipunsgeeth/github-readme-stats)
