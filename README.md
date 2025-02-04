@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 
 
 ## GitHub Stats
-![Nipun Sangeeth 's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunsgeeth&show_icons=true&theme=radical)
+![Sangeeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=NipunSGeeTH&hide=contribs,prs)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsgeeth&layout=compact&theme=radical)](https://github.com/nipunsgeeth/github-readme-stats)
