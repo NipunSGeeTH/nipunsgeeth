@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about programming, technology, and anything fun!
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/nipunsgeeth?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin </a>
 - 😄 Pronouns: He
-- ⚡ Fun fact: I studied at Ibbagamuwa Central College and now I'm diving deep into CS at UoM!
+- ⚡ Fun fact: I once dreamed of being an astronaut, but now I'm launching code rockets at the University of Moratuwa! 🚀💻
 
 
 ## GitHub Stats
