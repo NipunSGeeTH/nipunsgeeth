@@ -23,5 +23,5 @@ Here are some ideas to get you started: -->
 ![nipunsgeeth's Stats](https://github-readme-stats.vercel.app/api?username=nipunsgeeth&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsgeeth&layout=compact&theme=radical)](https://github.com/nipunsgeeth/github-readme-stats)
+![nipunsgeeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsgeeth&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
